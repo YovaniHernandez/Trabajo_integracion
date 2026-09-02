@@ -1,0 +1,25 @@
+name: "Carburadores"
+sheet_name: "Carburadores"
+schema_name: "CarburadorAttributes"
+start_row: 5
+
+description_template_style: "refacciones_mecanicas"
+
+defaults:
+  Origen: "China"
+  Número de pedimento: "N/A"
+  Cantidad de bocas: "1"
+  Cantidad de cilindros: "1"
+  Marca: "Genérico"
+
+column_mapping:
+  marca: "Marca"
+  numero_de_parte: "Número de parte"
+  modelo: "Modelo"
+  numero_de_pedimento: "Número de pedimento"
+  cantidad_de_bocas: "Cantidad de bocas"
+  cantidad_de_cilindros: "Cantidad de cilindros"
+  origen: "Origen"
+  descripcion_comercial: "Descripción"
+
+search_query_template: "carburador moto {title} especificaciones tecnicas compatible"

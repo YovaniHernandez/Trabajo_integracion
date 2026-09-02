@@ -1,0 +1,82 @@
+{
+  "sku": "SAL-4101-0731",
+  "title": "SALPICADERA DELANTERA VENTO V-ORIGINAL CYCLONE 200",
+  "sheet": "Salpicaderas",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [
+      "Vento"
+    ],
+    "models": [
+      "CYCLONE 200"
+    ],
+    "displacement_cc": null,
+    "posicion": "Delantera",
+    "color": "Negro",
+    "acabado": "Satinado",
+    "material": "Plástico ABS",
+    "incluye_herrajes": "No",
+    "altura": 15.0,
+    "unidad_altura": "cm",
+    "cantidad_agujeros": 4,
+    "espesor": 3.0,
+    "unidad_espesor": "mm"
+  },
+  "search_query": "salpicadera guardabarro moto SALPICADERA DELANTERA VENTO V-ORIGINAL CYCLONE 200 material medidas especificaciones",
+  "search_snippets": [
+    {
+      "title": "Salpicadera Delantera Moto Vento 200 | MercadoLibre",
+      "body": "4.7 8.9 K La salpicadera delantera original para Falkon 200 es una joya negra/roja diseñada a medida cuyo material principal es resistente plástico, lo que garantiza su ...",
+      "href": "https://listado.mercadolibre.com.mx/salpicadera-delantera-moto-vento-200"
+    },
+    {
+      "title": "Salpicadera vento cyclone 200 - Mercado Libre",
+      "body": "Compre Salpicadera Vento Cyclone 200 en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/salpicadera-vento-cyclone-200"
+    },
+    {
+      "title": "Salpicadera Moto Vento Cyclone 200 | Mercado Libre",
+      "body": "Compre Salpicadera Moto Vento Cyclone 200 en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/salpicadera-moto-vento-cyclone-200"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "SAL-4101-0731",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "CYCLONE 200"
+    ],
+    "resumen_tecnico": "Salpicadera delantera fabricada en plástico ABS color negro con acabado satinado, diseñada específicamente para Vento Cyclone 200.",
+    "modelo": "CYCLONE 200",
+    "color": "Negro",
+    "acabado": "Satinado",
+    "posicion": "Delantera",
+    "altura": 15.0,
+    "unidad_altura": "cm",
+    "incluye_herrajes": "No",
+    "cantidad_agujeros": 4,
+    "material": "Plástico ABS",
+    "espesor": 3.0,
+    "unidad_espesor": "mm"
+  },
+  "description": "- VENTO CYCLONE 200\n\nRecomendaciones de instalación: Se recomienda realizar la instalación con las herramientas adecuadas y verificar el apriete correcto en los puntos de sujeción para evitar vibraciones excesivas durante el camino.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Modelo": "CYCLONE 200",
+    "Número de parte": "SAL-4101-0731",
+    "Color": "Negro",
+    "Número de pedimento": "N/A",
+    "Origen": "China",
+    "Acabado": "Satinado",
+    "Altura": 15.0,
+    "Unidad de Altura": "cm",
+    "Incluye herrajes de montaje": "No",
+    "Cantidad de agujeros de montaje": 4,
+    "Material": "Plástico ABS",
+    "Espesor": 3.0,
+    "Unidad de Espesor": "mm",
+    "Descripción": "- VENTO CYCLONE 200\n\nRecomendaciones de instalación: Se recomienda realizar la instalación con las herramientas adecuadas y verificar el apriete correcto en los puntos de sujeción para evitar vibraciones excesivas durante el camino.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

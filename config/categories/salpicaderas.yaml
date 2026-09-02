@@ -1,0 +1,42 @@
+name: "Salpicaderas"
+sheet_name: "Salpicaderas"
+schema_name: "SalpicaderaAttributes"
+start_row: 5
+
+description_template_style: "refacciones_plasticas"
+
+defaults:
+  Marca: "Genérico"
+  Origen: "China"
+  Número de pedimento: "N/A"
+  Acabado: "Satinado"
+  Material: "Plástico ABS"
+  Incluye herrajes de montaje: "No"
+  Altura: 15
+  Unidad de Altura: "cm"
+  Cantidad de agujeros de montaje: 4
+  Espesor: 3
+  Unidad de Espesor: "mm"
+
+regex_patterns:
+  position: '(?P<pos>DELANTERA|TRASERA|DEL\.|TRAS\.)'
+  color: '(?P<color>NEGRO|GRIS|ROJO|AZUL|BLANCO|VERDE|AMARILLO)'
+
+column_mapping:
+  marca: "Marca"
+  modelo: "Modelo"
+  numero_de_parte: "Número de parte"
+  color: "Color"
+  numero_de_pedimento: "Número de pedimento"
+  origen: "Origen"
+  acabado: "Acabado"
+  altura: "Altura"
+  unidad_altura: "Unidad de Altura"
+  incluye_herrajes: "Incluye herrajes de montaje"
+  cantidad_agujeros: "Cantidad de agujeros de montaje"
+  material: "Material"
+  espesor: "Espesor"
+  unidad_espesor: "Unidad de Espesor"
+  descripcion_comercial: "Descripción"
+
+search_query_template: "salpicadera guardabarro moto {title} material medidas especificaciones"

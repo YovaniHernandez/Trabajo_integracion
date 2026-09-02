@@ -1,0 +1,65 @@
+{
+  "sku": "AMO-1400-0032",
+  "title": "AMORTIGUADOR / BARRA DE SUSPENSION DER. / IZQ. ITALIKA DM200 / VENTO CROSSMAX200",
+  "sheet": "Barras de suspensión",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [
+      "Italika",
+      "Vento"
+    ],
+    "models": [
+      "DM200",
+      "CROSSMAX200"
+    ],
+    "displacement_cc": 200,
+    "unidad_diametro": "mm",
+    "unidad_largo": "mm",
+    "posicion": "PAR",
+    "color": "Negro",
+    "diametro": 37.0,
+    "largo": 830.0
+  },
+  "search_query": "barras de suspension amortiguador moto AMORTIGUADOR / BARRA DE SUSPENSION DER. / IZQ. ITALIKA DM200 / VENTO CROSSMAX200 diametro largo medidas",
+  "search_snippets": [
+    {
+      "title": "Barras Para Italika Dm200/250 Suspensión Delantera",
+      "body": "Barras Para Italika Dm200 Dm250 Suspensión Delantera. $1,399 ; Barras De Suspensión Delanteras Par Italika Dm200. $1,437.",
+      "href": "https://www.mercadolibre.com.mx/barras-para-italika-dm200250-suspension-delantera/p/MLM2089060926"
+    },
+    {
+      "title": "Amortiguador / Suspensión - Motorefacciones.Mx",
+      "body": "Barras Suspension Italika DM200 - Negro... Juego de Barras de Suspensión Delanteras para Motocicleta Italika DM200 y modelos compatibles en color Negro Mate ...",
+      "href": "https://motorefacciones.mx/webstore/index.php"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "AMO-1400-0032",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "ITALIKA DM200",
+      "VENTO CROSSMAX200"
+    ],
+    "resumen_tecnico": "Amortiguador / barra de suspensión delantera para Italika DM200 y Vento Crossmax200, color negro, diámetro 37 mm, largo 830 mm.",
+    "diametro": 37.0,
+    "unidad_diametro": "mm",
+    "largo": 830.0,
+    "unidad_largo": "mm",
+    "posicion": "PAR",
+    "color": "NEGRO"
+  },
+  "description": "- ITALIKA DM200\n- VENTO CROSSMAX200\n\nRecomendación de instalación: Se sugiere que la instalación sea realizada por un mecánico especializado para garantizar el correcto funcionamiento del sistema de dirección y suspensión.\n\n¡Devuélvele la firmeza y el confort a tu manejo con refacciones de calidad comprobada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "AMO-1400-0032",
+    "Número de pedimento": "N/A",
+    "Diámetro": 37.0,
+    "Unidad de Diámetro": "mm",
+    "Largo": 830.0,
+    "Unidad de Largo": "mm",
+    "Origen": "China",
+    "Descripción": "- ITALIKA DM200\n- VENTO CROSSMAX200\n\nRecomendación de instalación: Se sugiere que la instalación sea realizada por un mecánico especializado para garantizar el correcto funcionamiento del sistema de dirección y suspensión.\n\n¡Devuélvele la firmeza y el confort a tu manejo con refacciones de calidad comprobada en cada ruta!"
+  }
+}

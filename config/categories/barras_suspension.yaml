@@ -1,0 +1,32 @@
+name: "Barras de suspensión"
+sheet_name: "Barras de suspensión"
+schema_name: "BarrasSuspensionAttributes"
+start_row: 5
+
+description_template_style: "refacciones_suspension"
+
+defaults:
+  Origen: "China"
+  Número de pedimento: "N/A"
+  Unidad de Diámetro: "mm"
+  Unidad de Largo: "mm"
+  Marca: "Genérico"
+
+regex_patterns:
+  dimensions_mm: '(?P<diam>\d{2}(?:\.\d+)?)\s*(?:mm|\*|x)\s*(?P<length>\d{2,3}(?:\.\d+)?)'
+  single_diameter: '(?P<diam>\d{2}(?:\.\d+)?)\s*MM'
+  position: '(?P<pos>DER\.|IZQ\.|PAR|DERECHO|IZQUIERDO)'
+  color: '(?P<color>NEGRO|GRIS|CROMO|PLATA|DORADO)'
+
+column_mapping:
+  marca: "Marca"
+  numero_de_parte: "Número de parte"
+  numero_de_pedimento: "Número de pedimento"
+  diametro: "Diámetro"
+  unidad_diametro: "Unidad de Diámetro"
+  largo: "Largo"
+  unidad_largo: "Unidad de Largo"
+  origen: "Origen"
+  descripcion_comercial: "Descripción"
+
+search_query_template: "barras de suspension amortiguador moto {title} diametro largo medidas"

@@ -1,0 +1,75 @@
+{
+  "sku": "ENG-1505-0219",
+  "title": "KIT ENGRANES ACERO #1045 MASUDA 428-44T / 14T CARGO125",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "CARGO125"
+    ],
+    "displacement_cc": null,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "paso_cadena": "428",
+    "cantidad_dientes_sprocket": 44,
+    "cantidad_dientes_pinon": 14,
+    "cantidad_eslabones_cadena": 122,
+    "largo_cadena": "1549"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ENGRANES ACERO #1045 MASUDA 428-44T / 14T CARGO125 dientes paso cadena eslabones",
+  "search_snippets": [
+    {
+      "title": "Kit: The Platform for Creators - Email Marketing, Automation ...",
+      "body": "For over a decade and counting, Kit is the email marketing platform experts choose to grow their audience, deepen their relationships, …",
+      "href": "https://kit.com/"
+    },
+    {
+      "title": "Kit - MercadoLibre",
+      "body": "Compre Kit en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/kit"
+    },
+    {
+      "title": "Kit | Liverpool",
+      "body": "Encuentra tus productos favoritos como Kit en Liverpool y disfruta el envío gratis en todas tus compras.",
+      "href": "https://www.liverpool.com.mx/tienda?s=kit"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-0219",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "CARGO125"
+    ],
+    "resumen_tecnico": "Kit de arrastre de acero MASUDA con paso 428, corona de 44 dientes y piñón de 14 dientes.",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 44,
+    "cantidad_dientes_pinon": 14,
+    "largo_cadena": "1549",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 122,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "KIT ENGRANES ACERO 428-44T / 14T PARA CARGO125 ¡Máxima potencia, resistencia superior y durabilidad garantizada para tu día a día! Prepárate para llevar el rendimiento de tu motocicleta al siguiente nivel con este kit de arrastre fabricado en acero de alta calidad, ideal para soportar el uso urbano y de trabajo más exigente sin perder tracción ni eficiencia.\n\nCaracterísticas destacadas:\n-Material de sprocket y piñón: Acero de alta resistencia contra la fricción y el desgaste\n-Paso de cadena: 428\n-Cantidad de dientes del sprocket (corona): 44T\n-Cantidad de dientes del piñón: 14T\n-Cadena con paso 428, longitud de 1549 mm (122 eslabones)\n-Estilo de conducción: Calle / Urbano / Trabajo\n\nCompatibilidad garantizada:\n-Honda CARGO 125\n\nRecomendaciones de instalación: Se sugiere realizar el cambio del kit completo (piñón, sprocket y cadena) y verificar la correcta tensión y lubricación periódica para asegurar una vida útil prolongada y un funcionamiento suave en cada rodada.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-0219",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 44,
+    "Cantidad de dientes del piñón": 14,
+    "Largo de la cadena": "1549",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 122,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "KIT ENGRANES ACERO 428-44T / 14T PARA CARGO125 ¡Máxima potencia, resistencia superior y durabilidad garantizada para tu día a día! Prepárate para llevar el rendimiento de tu motocicleta al siguiente nivel con este kit de arrastre fabricado en acero de alta calidad, ideal para soportar el uso urbano y de trabajo más exigente sin perder tracción ni eficiencia.\n\nCaracterísticas destacadas:\n-Material de sprocket y piñón: Acero de alta resistencia contra la fricción y el desgaste\n-Paso de cadena: 428\n-Cantidad de dientes del sprocket (corona): 44T\n-Cantidad de dientes del piñón: 14T\n-Cadena con paso 428, longitud de 1549 mm (122 eslabones)\n-Estilo de conducción: Calle / Urbano / Trabajo\n\nCompatibilidad garantizada:\n-Honda CARGO 125\n\nRecomendaciones de instalación: Se sugiere realizar el cambio del kit completo (piñón, sprocket y cadena) y verificar la correcta tensión y lubricación periódica para asegurar una vida útil prolongada y un funcionamiento suave en cada rodada.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

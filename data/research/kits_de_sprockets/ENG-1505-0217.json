@@ -1,0 +1,79 @@
+{
+  "sku": "ENG-1505-0217",
+  "title": "KIT ENGRANES ACERO #1045 MASUDA 428-46T / 15T EX200 / RT200 / RT200NEGRO",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "EX200",
+      "RT200",
+      "RT200"
+    ],
+    "displacement_cc": 200,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "paso_cadena": "428",
+    "cantidad_dientes_sprocket": 46,
+    "cantidad_dientes_pinon": 15,
+    "cantidad_eslabones_cadena": 128,
+    "largo_cadena": "1625"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ENGRANES ACERO #1045 MASUDA 428-46T / 15T EX200 / RT200 / RT200NEGRO dientes paso cadena eslabones",
+  "search_snippets": [
+    {
+      "title": "Kit Engranes Acero #1045 Masuda 428-46t/15t Ex200/Rt200/Rt200negro",
+      "body": "El Kit de Engranes de Acero #1045 Masuda 428-46T/15T está diseñado para optimizar el rendimiento de las motocicletas EX200, RT200 y RT200NEGRO. Esta pieza fu...",
+      "href": "https://toptek.mx/productos/kit-engranes-acero-1045-masuda-428-46t-15t-ex200-rt200/"
+    },
+    {
+      "title": "Sprocket 428 46t - Mercado Libre",
+      "body": "Compre Sprocket 428 46t en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/sprocket-428-46t"
+    },
+    {
+      "title": "Eng-1505-0217 Kit Arrastre 428-46t/15t Ex200/rt200 Moto - Acero ...",
+      "body": "Eng-1505-0217 Kit Arrastre 428-46t/15t Ex200/rt200 Moto - Acero Reforzado $ 260 24 meses de $ 15 71 IVA incluido Ver los medios de pago",
+      "href": "https://www.mercadolibre.com.mx/eng15050217-kit-arrastre-42846t15t-ex200rt200-moto/up/MLMU458039127"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-0217",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "EX200",
+      "RT200",
+      "RT200NEGRO"
+    ],
+    "resumen_tecnico": "Kit de engranes de acero Masuda para motocicletas con cadena de 128 eslabones, paso 428, sprocket de 46 dientes y piñón de 15 dientes.",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 46,
+    "cantidad_dientes_pinon": 15,
+    "largo_cadena": "1625",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 128,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "- RT200NEGRO\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (sprocket, piñón y cadena) al mismo tiempo para asegurar un desgaste uniforme y prolongar la vida útil de la transmisión. Se recomienda instalación por un mecánico calificado.\n\n¡Equipa tu moto con la mejor calidad y asegura trayectos suaves y seguros todos los días!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-0217",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 46,
+    "Cantidad de dientes del piñón": 15,
+    "Largo de la cadena": "1625",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 128,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "- RT200NEGRO\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (sprocket, piñón y cadena) al mismo tiempo para asegurar un desgaste uniforme y prolongar la vida útil de la transmisión. Se recomienda instalación por un mecánico calificado.\n\n¡Equipa tu moto con la mejor calidad y asegura trayectos suaves y seguros todos los días!"
+  }
+}

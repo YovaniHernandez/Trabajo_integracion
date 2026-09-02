@@ -1,0 +1,81 @@
+{
+  "sku": "SAL-4102-0008",
+  "title": "SALPICADERA TRASERA FORZA150 / FT150",
+  "sheet": "Salpicaderas",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "FORZA150",
+      "FT150"
+    ],
+    "displacement_cc": 150,
+    "posicion": "Trasera",
+    "color": "Negro",
+    "acabado": "Satinado",
+    "material": "Plástico ABS",
+    "incluye_herrajes": "No",
+    "altura": 18.0,
+    "unidad_altura": "cm",
+    "cantidad_agujeros": 2,
+    "espesor": 3.5,
+    "unidad_espesor": "mm"
+  },
+  "search_query": "salpicadera guardabarro moto SALPICADERA TRASERA FORZA150 / FT150 material medidas especificaciones",
+  "search_snippets": [
+    {
+      "title": "Salpicadera Trasera Para Moto Italika Ft125sport/dt150clasi",
+      "body": "Disponible Salpicadera Trasera P/moto Italika Ft125 Roja Nueva 18-22 ; Salpicadera Trasera Promoto Italika Ft125 Sport/dt150 Clasic.",
+      "href": "https://www.mercadolibre.com.mx/salpicadera-trasera-para-moto-italika-ft125sportdt150clasi/up/MLMU2994212212"
+    },
+    {
+      "title": "Salpicadera trasera para motocicleta roja FT125 DT125 DT150",
+      "body": "Disponible Descripción. \"Marca: Alessia Modelo: Ft 125 Color: Rojo Material: Aluminio Posición: Trasera Origen: China\". Especificaciones. Familia. Carroceria/Plasticos.",
+      "href": "https://motometa.com.mx/products/show/0238020088/salpicadera-trasera-para-motocicleta-roja-ft125-dt125-dt150"
+    },
+    {
+      "title": "[PDF] manual de usuario ft150 - ITALIKA",
+      "body": "1. Evitar cargar la motocicleta con más de 150 kg, conductor y pasajero. 2. Evitar subir pendientes que rebasen los 12 grados de inclinación.",
+      "href": "http://www.italika.com.mx/Descargas/files/2008/manuales/ft150.pdf"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "SAL-4102-0008",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "FORZA150",
+      "FT150"
+    ],
+    "modelo": "FORZA150 / FT150",
+    "color": "Negro",
+    "acabado": "Satinado",
+    "posicion": "Trasera",
+    "altura": 18.0,
+    "unidad_altura": "cm",
+    "incluye_herrajes": "No",
+    "cantidad_agujeros": 2,
+    "material": "Plástico ABS",
+    "espesor": 3.5,
+    "unidad_espesor": "mm"
+  },
+  "description": "SALPICADERA TRASERA FORZA150 / FT150\n\n¡Optimiza el rendimiento, seguridad y durabilidad de tu motocicleta! Esta refacción está fabricada bajo estrictos estándares de calidad con materiales de alta resistencia, garantizando un ajuste perfecto y máxima vida útil en tus traslados diarios y en carretera.\n\n** Características destacadas:\n- Marca: Genérico\n- Número de parte / SKU: SAL-4102-0008\n- Posición: Trasera\n- Material: Plástico ABS de alta resistencia\n- Color: Negro\n- Acabado: Satinado\n- Altura: 18.0 cm\n- Espesor: 3.5 mm\n- Cantidad de orificios de montaje: 2\n\n** Compatibilidad garantizada:\n- Modelos: FORZA150, FT150\n\n¡Máximo rendimiento y ajuste garantizado en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Modelo": "FORZA150 / FT150",
+    "Número de parte": "SAL-4102-0008",
+    "Color": "Negro",
+    "Número de pedimento": "N/A",
+    "Origen": "China",
+    "Acabado": "Satinado",
+    "Altura": 18.0,
+    "Unidad de Altura": "cm",
+    "Incluye herrajes de montaje": "No",
+    "Cantidad de agujeros de montaje": 2,
+    "Material": "Plástico ABS",
+    "Espesor": 3.5,
+    "Unidad de Espesor": "mm",
+    "Descripción": "SALPICADERA TRASERA FORZA150 / FT150\n\n¡Optimiza el rendimiento, seguridad y durabilidad de tu motocicleta! Esta refacción está fabricada bajo estrictos estándares de calidad con materiales de alta resistencia, garantizando un ajuste perfecto y máxima vida útil en tus traslados diarios y en carretera.\n\n** Características destacadas:\n- Marca: Genérico\n- Número de parte / SKU: SAL-4102-0008\n- Posición: Trasera\n- Material: Plástico ABS de alta resistencia\n- Color: Negro\n- Acabado: Satinado\n- Altura: 18.0 cm\n- Espesor: 3.5 mm\n- Cantidad de orificios de montaje: 2\n\n** Compatibilidad garantizada:\n- Modelos: FORZA150, FT150\n\n¡Máximo rendimiento y ajuste garantizado en cada ruta!"
+  }
+}

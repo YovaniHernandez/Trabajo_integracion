@@ -1,0 +1,82 @@
+{
+  "sku": "SAL-4101-0005K",
+  "title": "F16010259 SALPICADERA DELANTERA ITALIKA DT125 SPORT 17-19",
+  "sheet": "Salpicaderas",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [
+      "Italika"
+    ],
+    "models": [
+      "F16010259     DT125 SPORT 17-19"
+    ],
+    "displacement_cc": 125,
+    "posicion": "Delantera",
+    "color": "Negro",
+    "acabado": "Satinado",
+    "material": "Plástico ABS",
+    "incluye_herrajes": "No",
+    "altura": 15.0,
+    "unidad_altura": "cm",
+    "cantidad_agujeros": 4,
+    "espesor": 3.0,
+    "unidad_espesor": "mm"
+  },
+  "search_query": "salpicadera guardabarro moto F16010259 SALPICADERA DELANTERA ITALIKA DT125 SPORT 17-19 material medidas especificaciones",
+  "search_snippets": [
+    {
+      "title": "Google Docs",
+      "body": "Create and edit web-based documents, spreadsheets, and presentations. Store documents online and access them from any computer.",
+      "href": "https://docs.google.com/"
+    },
+    {
+      "title": "Google Docs: Sign-in",
+      "body": "Access Google Docs with a personal Google account or Google Workspace account (for business use).",
+      "href": "https://docs.google.com/document/u/0/?rswr=true"
+    },
+    {
+      "title": "Google Docs: Online Document & PDF Editor | Google Workspace",
+      "body": "Create online documents and edit PDFs with Google Docs. Collaborate in real-time from any device and use AI to generate drafts, …",
+      "href": "https://workspace.google.com/products/docs/"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "SAL-4101-0005K",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "DT125 SPORT 17-19"
+    ],
+    "resumen_tecnico": "Salpicadera delantera color negro con acabado satinado para Italika DT125 Sport 17-19.",
+    "modelo": "DT125 SPORT 17-19",
+    "color": "Negro",
+    "acabado": "Satinado",
+    "posicion": "Delantera",
+    "altura": 15.0,
+    "unidad_altura": "cm",
+    "incluye_herrajes": "No",
+    "cantidad_agujeros": 4,
+    "material": "Plástico ABS",
+    "espesor": 3.0,
+    "unidad_espesor": "mm"
+  },
+  "description": "F16010259 SALPICADERA DELANTERA ITALIKA DT125 SPORT 17-19\n\n¡Optimiza el rendimiento, seguridad y durabilidad de tu motocicleta! Esta refacción está fabricada bajo estrictos estándares de calidad con materiales de alta resistencia, garantizando un ajuste perfecto y máxima vida útil en tus traslados diarios y en carretera.\n\n** Características destacadas:\n- Marca: Genérico\n- Número de parte / SKU: SAL-4101-0005K\n- Posición: Delantera\n- Material: Plástico ABS de alta resistencia\n- Color: Negro\n- Acabado: Satinado\n- Altura: 15.0 cm\n- Espesor: 3.0 mm\n- Cantidad de orificios de montaje: 4\n\n** Compatibilidad garantizada:\n- Modelos: DT125 SPORT 17-19\n\n¡Máximo rendimiento y ajuste garantizado en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Modelo": "DT125 SPORT 17-19",
+    "Número de parte": "SAL-4101-0005K",
+    "Color": "Negro",
+    "Número de pedimento": "N/A",
+    "Origen": "China",
+    "Acabado": "Satinado",
+    "Altura": 15.0,
+    "Unidad de Altura": "cm",
+    "Incluye herrajes de montaje": "No",
+    "Cantidad de agujeros de montaje": 4,
+    "Material": "Plástico ABS",
+    "Espesor": 3.0,
+    "Unidad de Espesor": "mm",
+    "Descripción": "F16010259 SALPICADERA DELANTERA ITALIKA DT125 SPORT 17-19\n\n¡Optimiza el rendimiento, seguridad y durabilidad de tu motocicleta! Esta refacción está fabricada bajo estrictos estándares de calidad con materiales de alta resistencia, garantizando un ajuste perfecto y máxima vida útil en tus traslados diarios y en carretera.\n\n** Características destacadas:\n- Marca: Genérico\n- Número de parte / SKU: SAL-4101-0005K\n- Posición: Delantera\n- Material: Plástico ABS de alta resistencia\n- Color: Negro\n- Acabado: Satinado\n- Altura: 15.0 cm\n- Espesor: 3.0 mm\n- Cantidad de orificios de montaje: 4\n\n** Compatibilidad garantizada:\n- Modelos: DT125 SPORT 17-19\n\n¡Máximo rendimiento y ajuste garantizado en cada ruta!"
+  }
+}

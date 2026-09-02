@@ -1,0 +1,62 @@
+{
+  "sku": "CAR-2110-0004",
+  "title": "CARBURADOR ITALIKA / DINAMO 150CC CG150 / THUNDER.STAR250",
+  "sheet": "Carburadores",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [
+      "Italika",
+      "Dinamo"
+    ],
+    "models": [
+      "CG150",
+      "THUNDER.STAR250"
+    ],
+    "displacement_cc": 150
+  },
+  "search_query": "carburador moto CARBURADOR ITALIKA / DINAMO 150CC CG150 / THUNDER.STAR250 especificaciones tecnicas compatible",
+  "search_snippets": [
+    {
+      "title": "Carburador - Wikipedia, la enciclopedia libre",
+      "body": "El carburador es el dispositivo que se encarga de preparar la mezcla de aire - combustible en los motores de explosión. A fin de que …",
+      "href": "https://es.m.wikipedia.org/wiki/Carburador"
+    },
+    {
+      "title": "El Carburador: Qué es, como Funciona, Tipos, Partes, Fallas",
+      "body": "El carburador es un componente mecánico esencial presente en la mayoría de los motores de combustión interna. Su función …",
+      "href": "https://www.mundodelmotor.net/el-carburador/"
+    },
+    {
+      "title": "Carburador: qué es y qué función tiene en un motor",
+      "body": "May 13, 2020 · Un carburador es un dispositivo que se encarga de suministrar al motor la mezcla y cantidad de aire y combustible …",
+      "href": "https://www.actualidadmotor.com/carburador/"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "CAR-2110-0004",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "CG150",
+      "THUNDER.STAR250"
+    ],
+    "resumen_tecnico": "Carburador compatible con Italika / Dinamo 150cc CG150 y Thunder Star 250",
+    "modelo": "CG150 / THUNDER.STAR250",
+    "cantidad_de_bocas": "1",
+    "cantidad_de_cilindros": "1",
+    "tipo_carburador": null,
+    "cilindrada_cc": 150
+  },
+  "description": "CARBURADOR PARA MOTO ITALIKA / DINAMO 150CC CG150 / THUNDER.STAR250 – MÁXIMA POTENCIA Y RENDIMIENTO\nDevuelvele la potencia y la respuesta precisa al acelerador de tu motocicleta con este carburador de alta calidad, diseñado específicamente para garantizar una mezcla óptima de aire y combustible. Ideal para mantener tu motor trabajando de manera eficiente, mejorando el arranque en frío, el ralentí estable y un consumo de gasolina eficiente en cada trayecto urbano o de trabajo.\n\nCaracterísticas destacadas:\n-Tipo: Carburador monocilíndrico de 1 boca\n-Cilindrada compatible: 150cc\n-Número de parte: CAR-2110-0004\n-Fabricado con aleación metálica de alta resistencia y durabilidad\n-Diseño optimizado para una fácil carburación y ajuste preciso\n-Mejora la respuesta del motor y la eficiencia en el consumo de combustible\n\nCompatibilidad garantizada:\n-Italika CG150 (150cc)\n-Dinamo CG150\n-Thunder Star 250\n\nRecomendaciones de instalación: Se sugiere que la instalación sea realizada por un mecánico especializado para asegurar el correcto ajuste de la mezcla, chicleres y chicote de acelerador, garantizando así el óptimo funcionamiento del motor.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "CAR-2110-0004",
+    "Modelo": "CG150 / THUNDER.STAR250",
+    "Número de pedimento": "N/A",
+    "Cantidad de bocas": "1",
+    "Cantidad de cilindros": "1",
+    "Origen": "China",
+    "Descripción": "CARBURADOR PARA MOTO ITALIKA / DINAMO 150CC CG150 / THUNDER.STAR250 – MÁXIMA POTENCIA Y RENDIMIENTO\nDevuelvele la potencia y la respuesta precisa al acelerador de tu motocicleta con este carburador de alta calidad, diseñado específicamente para garantizar una mezcla óptima de aire y combustible. Ideal para mantener tu motor trabajando de manera eficiente, mejorando el arranque en frío, el ralentí estable y un consumo de gasolina eficiente en cada trayecto urbano o de trabajo.\n\nCaracterísticas destacadas:\n-Tipo: Carburador monocilíndrico de 1 boca\n-Cilindrada compatible: 150cc\n-Número de parte: CAR-2110-0004\n-Fabricado con aleación metálica de alta resistencia y durabilidad\n-Diseño optimizado para una fácil carburación y ajuste preciso\n-Mejora la respuesta del motor y la eficiencia en el consumo de combustible\n\nCompatibilidad garantizada:\n-Italika CG150 (150cc)\n-Dinamo CG150\n-Thunder Star 250\n\nRecomendaciones de instalación: Se sugiere que la instalación sea realizada por un mecánico especializado para asegurar el correcto ajuste de la mezcla, chicleres y chicote de acelerador, garantizando así el óptimo funcionamiento del motor.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

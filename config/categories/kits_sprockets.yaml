@@ -1,0 +1,36 @@
+name: "Kits de sprockets"
+sheet_name: "Kits de sprockets"
+schema_name: "SprocketAttributes"
+start_row: 5
+
+description_template_style: "refacciones_traccion"
+
+defaults:
+  Origen: "China"
+  Número de pedimento: "N/A"
+  Material del sprocket: "Acero"
+  Material del piñón: "Acero"
+  Unidad de Largo de la cadena: "mm"
+  Estilo de conducción en moto: "Calle"
+  Marca: "Genérico"
+
+regex_patterns:
+  chain_and_teeth: '(?P<pitch>420|428|520|525|530)-(?P<sprocket_teeth>\d+)T\s*/\s*(?P<pinion_teeth>\d+)T'
+  links: '(?P<links>\d{2,3})L'
+
+column_mapping:
+  marca: "Marca"
+  numero_de_parte: "Número de parte"
+  numero_de_pedimento: "Número de pedimento"
+  material_del_sprocket: "Material del sprocket"
+  material_del_pinon: "Material del piñón"
+  cantidad_dientes_sprocket: "Cantidad de dientes del sprocket"
+  cantidad_dientes_pinon: "Cantidad de dientes del piñón"
+  largo_cadena: "Largo de la cadena"
+  unidad_largo_cadena: "Unidad de Largo de la cadena"
+  cantidad_eslabones_cadena: "Cantidad de eslabones de la cadena"
+  origen: "Origen"
+  estilo_conduccion: "Estilo de conducción en moto"
+  descripcion_comercial: "Descripción"
+
+search_query_template: "kit sprockets arrastre moto {title} dientes paso cadena eslabones"

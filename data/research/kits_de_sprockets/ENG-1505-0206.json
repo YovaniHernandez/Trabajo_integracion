@@ -1,0 +1,79 @@
+{
+  "sku": "ENG-1505-0206",
+  "title": "KIT ENGRANES ACERO #1045 MASUDA 428-39T / 15T FT150 / FT150GT / FORZA150",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "FT150",
+      "FT150GT",
+      "FORZA150"
+    ],
+    "displacement_cc": 150,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "paso_cadena": "428",
+    "cantidad_dientes_sprocket": 39,
+    "cantidad_dientes_pinon": 15,
+    "cantidad_eslabones_cadena": 116,
+    "largo_cadena": "1473"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ENGRANES ACERO #1045 MASUDA 428-39T / 15T FT150 / FT150GT / FORZA150 dientes paso cadena eslabones",
+  "search_snippets": [
+    {
+      "title": "Jual Isoplus 1 Dus Terdekat - Harga Murah & Grosir September 2026",
+      "body": "Karena banyaknya pilihan produk Isoplus 1 Dus yang tersedia di Tokopedia mulai dari variasi rasa hingga kemasan, kamu bisa bebas …",
+      "href": "https://www.tokopedia.com/find/isoplus-1-dus"
+    },
+    {
+      "title": "Jual Isoplus Dus Murah & Terbaik - Harga Terbaru September 2026",
+      "body": "Beli Isoplus Dus Online harga murah terbaru 2026 di Tokopedia! ∙ Promo Pengguna Baru ∙ Kurir Instan ∙ Bebas Ongkir ∙ Cicilan 0%.",
+      "href": "https://www.tokopedia.com/find/isoplus-dus"
+    },
+    {
+      "title": "Jual IsoPlus Botol 350ml - 1 Dus (12 pcs) | Shopee Indonesia",
+      "body": "Beli IsoPlus Botol 350ml - 1 Dus (12 pcs) Terbaru Harga Murah di Shopee. Ada Gratis Ongkir, Promo COD, & Cashback. Cek Review …",
+      "href": "https://shopee.co.id/IsoPlus-Botol-350ml-1-Dus-(12-pcs)-i.563755087.11670867839"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-0206",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "FT150",
+      "FT150GT",
+      "FORZA150"
+    ],
+    "resumen_tecnico": "Kit de sprockets Masuda de acero, paso 428, 39 dientes en sprocket y 15 en piñón, con cadena de 116 eslabones y 1473 mm de largo. Estilo de conducción calle.",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 39,
+    "cantidad_dientes_pinon": 15,
+    "largo_cadena": "1473",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 116,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "-SKU: ENG-1505-0206\n\nCompatibilidad garantizada:\n-Italika FT150\n-Italika FT150GT\n-Forza 150\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (piñón, sprocket y cadena) de manera simultánea, así como verificar la correcta tensión y lubricación periódica para asegurar el máximo desempeño y prolongar la vida útil de los componentes.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-0206",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 39,
+    "Cantidad de dientes del piñón": 15,
+    "Largo de la cadena": "1473",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 116,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "-SKU: ENG-1505-0206\n\nCompatibilidad garantizada:\n-Italika FT150\n-Italika FT150GT\n-Forza 150\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (piñón, sprocket y cadena) de manera simultánea, así como verificar la correcta tensión y lubricación periódica para asegurar el máximo desempeño y prolongar la vida útil de los componentes.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "sku": "ENG-1505-0210",
+  "title": "KIT ENGRANES ACERO #1045 MASUDA 428-38T / 15T 125Z",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "125Z"
+    ],
+    "displacement_cc": null,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "paso_cadena": "428",
+    "cantidad_dientes_sprocket": 38,
+    "cantidad_dientes_pinon": 15,
+    "cantidad_eslabones_cadena": 116,
+    "largo_cadena": "1473"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ENGRANES ACERO #1045 MASUDA 428-38T / 15T 125Z dientes paso cadena eslabones",
+  "search_snippets": [
+    {
+      "title": "Kit: The Platform for Creators - Email Marketing, Automation ...",
+      "body": "For over a decade and counting, Kit is the email marketing platform experts choose to grow their audience, deepen their relationships, and build …",
+      "href": "https://kit.com/"
+    },
+    {
+      "title": "Kit - MercadoLibre",
+      "body": "Compre Kit en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/kit"
+    },
+    {
+      "title": "Kit | Liverpool",
+      "body": "Encuentra tus productos favoritos como Kit en Liverpool y disfruta el envío gratis en todas tus compras.",
+      "href": "https://www.liverpool.com.mx/tienda?s=kit"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-0210",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "125Z"
+    ],
+    "resumen_tecnico": "Kit de sprockets de acero con paso 428, corona de 38 dientes y piñón de 15 dientes, incluye cadena de 116 eslabones (1473 mm).",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 38,
+    "cantidad_dientes_pinon": 15,
+    "largo_cadena": "1473",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 116,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "KIT ENGRANES ACERO #1045 PASO 428 PARA 125Z – MÁXIMA DURABILIDAD EN CADA RUTA\n¡Potencia el rendimiento de tu moto y asegura una transmisión suave en tus trayectos diarios! Este kit de sprockets está fabricado en resistente acero #1045, diseñado para ofrecer una excelente durabilidad y resistencia al desgaste continuo en el tráfico de la ciudad o en carretera.\n\nCaracterísticas destacadas:\n-Material de sprockets y piñón: Acero #1045 de alta resistencia\n-Paso de cadena: 428\n-Corona / Sprocket trasero: 38 dientes\n-Piñón delantero: 15 dientes\n-Cadena incluida: 116 eslabones (largo de 1473 mm)\n-Estilo de conducción ideal: Calle y uso diario\n\nCompatibilidad garantizada:\n- Motocicleta 125Z\n\nRecomendaciones de uso: Se sugiere realizar la instalación por un especialista para asegurar el correcto tensionado de la cadena y alargar la vida útil del conjunto de transmisión. Revisa periódicamente la lubricación y el desgaste de los dientes.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-0210",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 38,
+    "Cantidad de dientes del piñón": 15,
+    "Largo de la cadena": "1473",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 116,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "KIT ENGRANES ACERO #1045 PASO 428 PARA 125Z – MÁXIMA DURABILIDAD EN CADA RUTA\n¡Potencia el rendimiento de tu moto y asegura una transmisión suave en tus trayectos diarios! Este kit de sprockets está fabricado en resistente acero #1045, diseñado para ofrecer una excelente durabilidad y resistencia al desgaste continuo en el tráfico de la ciudad o en carretera.\n\nCaracterísticas destacadas:\n-Material de sprockets y piñón: Acero #1045 de alta resistencia\n-Paso de cadena: 428\n-Corona / Sprocket trasero: 38 dientes\n-Piñón delantero: 15 dientes\n-Cadena incluida: 116 eslabones (largo de 1473 mm)\n-Estilo de conducción ideal: Calle y uso diario\n\nCompatibilidad garantizada:\n- Motocicleta 125Z\n\nRecomendaciones de uso: Se sugiere realizar la instalación por un especialista para asegurar el correcto tensionado de la cadena y alargar la vida útil del conjunto de transmisión. Revisa periódicamente la lubricación y el desgaste de los dientes.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

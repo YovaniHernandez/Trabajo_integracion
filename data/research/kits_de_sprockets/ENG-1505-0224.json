@@ -1,0 +1,75 @@
+{
+  "sku": "ENG-1505-0224",
+  "title": "KIT ENGRANES ACERO #1045 MASUDA 428-54T / 17T NXR125",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "NXR125"
+    ],
+    "displacement_cc": 125,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "paso_cadena": "428",
+    "cantidad_dientes_sprocket": 54,
+    "cantidad_dientes_pinon": 17,
+    "cantidad_eslabones_cadena": 132,
+    "largo_cadena": "1676"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ENGRANES ACERO #1045 MASUDA 428-54T / 17T NXR125 dientes paso cadena eslabones",
+  "search_snippets": [
+    {
+      "title": "Kit: The Platform for Creators - Email Marketing, Automation ...",
+      "body": "For over a decade and counting, Kit is the email marketing platform experts choose to grow their audience, deepen their …",
+      "href": "https://kit.com/"
+    },
+    {
+      "title": "Kit - MercadoLibre",
+      "body": "Compre Kit en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/kit"
+    },
+    {
+      "title": "Kit | Liverpool",
+      "body": "Encuentra tus productos favoritos como Kit en Liverpool y disfruta el envío gratis en todas tus compras.",
+      "href": "https://www.liverpool.com.mx/tienda?s=kit"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-0224",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "NXR125"
+    ],
+    "resumen_tecnico": "Kit de sprockets de acero con cadena de 132 eslabones, corona de 54 dientes y piñón de 17 dientes, paso 428.",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 54,
+    "cantidad_dientes_pinon": 17,
+    "largo_cadena": "1676",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 132,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "KIT ENGRANES ACERO #1045 PASO 428 PARA NXR125 – CORONA 54T Y PIÑÓN 17T ¡Máxima durabilidad y transmisión de potencia superior para tu moto! Renueva el sistema de arrastre de tu motocicleta con este kit fabricado en acero #1045 de alta resistencia, diseñado para soportar el desgaste diario en trayectos urbanos y de calle sin comprometer el rendimiento.\n\nCaracterísticas destacadas:\n-Material de corona y piñón: Acero #1045 de alta resistencia al desgaste\n-Paso de cadena: 428\n-Cantidad de dientes del sprocket (corona): 54T\n-Cantidad de dientes del piñón: 17T\n-Cadena incluida de 132 eslabones (largo aproximado de 1676 mm)\n-Estilo de conducción: Ideal para calle y uso diario\n-Número de parte: ENG-1505-0224\n\nCompatibilidad garantizada:\n-NXR125\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (corona, piñón y cadena) de manera simultánea y verificar la correcta alineación y tensión con el apoyo de un mecánico profesional para asegurar un funcionamiento óptimo y prolongar la vida útil de las piezas.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-0224",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 54,
+    "Cantidad de dientes del piñón": 17,
+    "Largo de la cadena": "1676",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 132,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "KIT ENGRANES ACERO #1045 PASO 428 PARA NXR125 – CORONA 54T Y PIÑÓN 17T ¡Máxima durabilidad y transmisión de potencia superior para tu moto! Renueva el sistema de arrastre de tu motocicleta con este kit fabricado en acero #1045 de alta resistencia, diseñado para soportar el desgaste diario en trayectos urbanos y de calle sin comprometer el rendimiento.\n\nCaracterísticas destacadas:\n-Material de corona y piñón: Acero #1045 de alta resistencia al desgaste\n-Paso de cadena: 428\n-Cantidad de dientes del sprocket (corona): 54T\n-Cantidad de dientes del piñón: 17T\n-Cadena incluida de 132 eslabones (largo aproximado de 1676 mm)\n-Estilo de conducción: Ideal para calle y uso diario\n-Número de parte: ENG-1505-0224\n\nCompatibilidad garantizada:\n-NXR125\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (corona, piñón y cadena) de manera simultánea y verificar la correcta alineación y tensión con el apoyo de un mecánico profesional para asegurar un funcionamiento óptimo y prolongar la vida útil de las piezas.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

@@ -1,0 +1,8 @@
+.env.example
+Prueba_Y_2.0.xlsx
+venv/
+bin/
+build/
+__pycache__/
+node_modules/
+

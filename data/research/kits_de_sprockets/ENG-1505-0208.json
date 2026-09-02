@@ -1,0 +1,71 @@
+{
+  "sku": "ENG-1505-0208",
+  "title": "KIT ENGRANES ACERO #1045 MASUDA 428-42T / 15T DT200SPORT / FT180 / FT200 / FT200AMARILLA / FT250 / FT250TS / RT180",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [],
+    "models": [
+      "DT200SPORT",
+      "FT180",
+      "FT200",
+      "FT200AMARILLA",
+      "FT250",
+      "FT250TS",
+      "RT180"
+    ],
+    "displacement_cc": 180,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "paso_cadena": "428",
+    "cantidad_dientes_sprocket": 42,
+    "cantidad_dientes_pinon": 15,
+    "cantidad_eslabones_cadena": 116,
+    "largo_cadena": "1473"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ENGRANES ACERO #1045 MASUDA 428-42T / 15T DT200SPORT / FT180 / FT200 / FT200AMARILLA / FT250 / FT250TS / RT180 dientes paso cadena eslabones",
+  "search_snippets": [],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-0208",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "DT200SPORT",
+      "FT180",
+      "FT200",
+      "FT200AMARILLA",
+      "FT250",
+      "FT250TS",
+      "RT180"
+    ],
+    "resumen_tecnico": "Kit de sprockets y cadena de acero MASUDA paso 428 con 42 dientes en sprocket, 15 dientes en piñón y cadena de 116 eslabones (1473 mm).",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 42,
+    "cantidad_dientes_pinon": 15,
+    "largo_cadena": "1473",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 116,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "KIT ENGRANES ACERO #1045 428-42T / 15T DT200SPORT / FT180 / FT200 / FT250 / FT250TS\n¡Maximiza la potencia y resistencia de tu transmisión con este kit de engranes de alta calidad! Diseñado específicamente para soportar el uso diario y exigente en la ciudad o carretera, este kit de sprockets y cadena ofrece un rendimiento superior, garantizando una transferencia de fuerza suave, eficiente y duradera en cada aceleración.\n\nEspecificaciones técnicas:\n-Material de sprockets y piñón: Acero #1045 de alta resistencia al desgaste\n-Paso de cadena: 428\n-Cantidad de dientes en sprocket (corona): 42T\n-Cantidad de dientes en piñón: 15T\n-Cantidad de eslabones: 116 eslabones\n-Largo total de la cadena: 1473 mm\n-Estilo de conducción: Calle\n\nCompatibilidad garantizada:\n-DT200SPORT\n-FT180\n-FT200\n-FT200 AMARILLA\n-FT250\n-FT250TS\n-RT180\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (piñón, sprocket y cadena) de manera simultánea para asegurar un acoplamiento perfecto y prolongar la vida útil de los componentes. Se recomienda instalación por un especialista.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-0208",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 42,
+    "Cantidad de dientes del piñón": 15,
+    "Largo de la cadena": "1473",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 116,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "KIT ENGRANES ACERO #1045 428-42T / 15T DT200SPORT / FT180 / FT200 / FT250 / FT250TS\n¡Maximiza la potencia y resistencia de tu transmisión con este kit de engranes de alta calidad! Diseñado específicamente para soportar el uso diario y exigente en la ciudad o carretera, este kit de sprockets y cadena ofrece un rendimiento superior, garantizando una transferencia de fuerza suave, eficiente y duradera en cada aceleración.\n\nEspecificaciones técnicas:\n-Material de sprockets y piñón: Acero #1045 de alta resistencia al desgaste\n-Paso de cadena: 428\n-Cantidad de dientes en sprocket (corona): 42T\n-Cantidad de dientes en piñón: 15T\n-Cantidad de eslabones: 116 eslabones\n-Largo total de la cadena: 1473 mm\n-Estilo de conducción: Calle\n\nCompatibilidad garantizada:\n-DT200SPORT\n-FT180\n-FT200\n-FT200 AMARILLA\n-FT250\n-FT250TS\n-RT180\n\nRecomendación de instalación: Se sugiere realizar el cambio del kit completo (piñón, sprocket y cadena) de manera simultánea para asegurar un acoplamiento perfecto y prolongar la vida útil de los componentes. Se recomienda instalación por un especialista.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

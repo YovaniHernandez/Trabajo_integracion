@@ -1,0 +1,78 @@
+{
+  "sku": "ENG-1505-3504",
+  "title": "KIT ARRASTRE MOTOKING 41T / 15T 428H*116 VENTO V-ORIGINAL URVAN 150",
+  "sheet": "Kits de sprockets",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [
+      "Vento"
+    ],
+    "models": [
+      "KIT ARRASTRE   41T",
+      "15T 428H116     URVAN 150"
+    ],
+    "displacement_cc": null,
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "unidad_largo_cadena": "mm",
+    "estilo_conduccion": "Calle",
+    "cantidad_dientes_sprocket": 38,
+    "cantidad_dientes_pinon": 15,
+    "cantidad_eslabones_cadena": 116,
+    "largo_cadena": "1473",
+    "paso_cadena": "428"
+  },
+  "search_query": "kit sprockets arrastre moto KIT ARRASTRE MOTOKING 41T / 15T 428H*116 VENTO V-ORIGINAL URVAN 150 dientes paso cadena eslabones",
+  "search_snippets": [
+    {
+      "title": "41t Sprocket 428 | MercadoLibre",
+      "body": "Envíos Gratis en el día Compre 41t Sprocket 428 en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/41t-sprocket-428"
+    },
+    {
+      "title": "Sprocket 41t - Mercado Libre",
+      "body": "Compre Sprocket 41t en cuotas sin interés! Conozca nuestras increíbles ofertas y promociones en millones de productos.",
+      "href": "https://listado.mercadolibre.com.mx/sprocket-41t"
+    },
+    {
+      "title": "Amazon.com.mx: Kit De Arrastre Moto",
+      "body": "Amazon.com.mx: kit de arrastre moto Consulta la página de detalle del producto para ver otras opciones de compra. El precio y otros detalles pueden variar según el tamaño y color del producto.",
+      "href": "https://www.amazon.com.mx/kit-de-arrastre-moto/s?k=kit+de+arrastre+moto"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "ENG-1505-3504",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "VENTO V-ORIGINAL URVAN 150"
+    ],
+    "resumen_tecnico": "Kit de arrastre con corona de 41 dientes y piñón de 15 dientes, cadena 428H de 116 eslabones.",
+    "material_del_sprocket": "Acero",
+    "material_del_pinon": "Acero",
+    "cantidad_dientes_sprocket": 41,
+    "cantidad_dientes_pinon": 15,
+    "largo_cadena": "1473",
+    "unidad_largo_cadena": "mm",
+    "cantidad_eslabones_cadena": 116,
+    "paso_cadena": "428",
+    "estilo_conduccion": "Calle"
+  },
+  "description": "- VENTO V-ORIGINAL URVAN 150\n\nRecomendaciones de instalación: Se recomienda realizar el cambio del kit completo (piñón, corona y cadena) al mismo tiempo para asegurar un desgaste uniforme y evitar daños prematuros en la transmisión. Se sugiere instalación por un mecánico calificado y ajustar la tensión de la cadena según las especificaciones de tu manual.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "ENG-1505-3504",
+    "Número de pedimento": "N/A",
+    "Material del sprocket": "Acero",
+    "Material del piñón": "Acero",
+    "Cantidad de dientes del sprocket": 41,
+    "Cantidad de dientes del piñón": 15,
+    "Largo de la cadena": "1473",
+    "Unidad de Largo de la cadena": "mm",
+    "Cantidad de eslabones de la cadena": 116,
+    "Origen": "China",
+    "Estilo de conducción en moto": "Calle",
+    "Descripción": "- VENTO V-ORIGINAL URVAN 150\n\nRecomendaciones de instalación: Se recomienda realizar el cambio del kit completo (piñón, corona y cadena) al mismo tiempo para asegurar un desgaste uniforme y evitar daños prematuros en la transmisión. Se sugiere instalación por un mecánico calificado y ajustar la tensión de la cadena según las especificaciones de tu manual.\n\n¡Máximo rendimiento y durabilidad garantizada en cada ruta!"
+  }
+}

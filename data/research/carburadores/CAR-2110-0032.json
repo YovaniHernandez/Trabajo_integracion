@@ -1,0 +1,59 @@
+{
+  "sku": "CAR-2110-0032",
+  "title": "CARBURADOR BAJAJ BM150",
+  "sheet": "Carburadores",
+  "parsed_clues": {
+    "marca": "Genérico",
+    "moto_brands": [
+      "Bajaj"
+    ],
+    "models": [
+      "BM150"
+    ],
+    "displacement_cc": 150
+  },
+  "search_query": "carburador moto CARBURADOR BAJAJ BM150 especificaciones tecnicas compatible",
+  "search_snippets": [
+    {
+      "title": "Campana Clutch Fz Portavasos Motos Bajaj ... - Mercado Libre",
+      "body": "Tipo de motor es de 4 tiempos refrigerado por aire de 250cc con caja de 5 velocidades. Metodo de instalacion es con especificaciones originales para reemplazo ...",
+      "href": "https://www.mercadolibre.com.mx/campana-clutch-fz-portavasos-motos-bajaj-clutch-moto-bajaj-discover-clei-cb250-6-columnas-7-piezas-clutch-completo-nitrox250-2023/p/MLM2090966875"
+    },
+    {
+      "title": "Batería moto GTX14 Gonher tecnología AGM - Qumo",
+      "body": "Agotado La Batería de Moto GTX14 de Gonher es una opción confiable y de alto rendimiento para motocicletas que requieren una batería de 12V y 12 Ah. Diseñada con ...",
+      "href": "https://qumo.com.mx/tienda/electrico/baterias-de-moto/bateria-para-moto-gonher-gtx14/"
+    },
+    {
+      "title": "Carburador Bajaj Boxer Bm150 (Embulo) Vini/Imbra",
+      "body": "El Carburador Bajaj Boxer BM150 tipo Émbolo VINI/IMBRA garantiza la mezcla exacta para el motor de trabajo de la Boxer BM150. El sistema de émbolo ofrece respuesta directa y lineal al acelerar, ideal para uso de carga y trabajo diario. Cuerpo de zinc fundido con componentes precisos.",
+      "href": "https://www.kmmotos.com/products/carburador-de-boxer-bm150"
+    }
+  ],
+  "technical_attributes": {
+    "marca": "Genérico",
+    "numero_de_parte": "CAR-2110-0032",
+    "numero_de_pedimento": "N/A",
+    "origen": "China",
+    "modelos_compatibles": [
+      "BM150"
+    ],
+    "resumen_tecnico": "Carburador tipo émbolo para Bajaj BM150, diseñado para motores de 4 tiempos y 150cc de trabajo diario, cuerpo de zinc fundido.",
+    "modelo": "BM150",
+    "cantidad_de_bocas": "1",
+    "cantidad_de_cilindros": "1",
+    "tipo_carburador": null,
+    "cilindrada_cc": 150
+  },
+  "description": "CARBURADOR TIPO ÉMBOLO PARA BAJAJ BM150 – RENDIMIENTO Y ESTABILIDAD PARA TU MOTOR\nOptimiza la potencia y el consumo de combustible de tu motocicleta con este carburador diseñado específicamente para la trabajo diario. Ya sea que uses tu moto para reparto o transporte continuo, este componente garantiza una respuesta rápida al acelerador y un ralentí perfectamente estable en cualquier condición de ruta.\n\nCaracterísticas destacadas:\n-Tipo: Carburador de émbolo para motores de 4 tiempos y 150cc\n-Material: Cuerpo de aleación de zinc fundido de alta resistencia y durabilidad\n-Configuración: 1 boca y 1 cilindro\n-Mejora la eficiencia en el consumo de gasolina\n-Flujo de aire optimizado para un arranque suave y sin contratiempos\n-Número de parte: CAR-2110-0032\n\nCompatibilidad garantizada:\n-Bajaj BM150 (todos los años de producción)\n\nRecomendación de instalación: Se sugiere realizar la instalación y calibración con un mecánico especializado para asegurar el correcto flujo de combustible y el máximo rendimiento de tu motor.\n\n¡Mantén tu motocicleta al 100% y recorre cada kilómetro con total confianza y potencia garantizada!",
+  "excel_updates": {
+    "Marca": "Genérico",
+    "Número de parte": "CAR-2110-0032",
+    "Modelo": "BM150",
+    "Número de pedimento": "N/A",
+    "Cantidad de bocas": "1",
+    "Cantidad de cilindros": "1",
+    "Origen": "China",
+    "Descripción": "CARBURADOR TIPO ÉMBOLO PARA BAJAJ BM150 – RENDIMIENTO Y ESTABILIDAD PARA TU MOTOR\nOptimiza la potencia y el consumo de combustible de tu motocicleta con este carburador diseñado específicamente para la trabajo diario. Ya sea que uses tu moto para reparto o transporte continuo, este componente garantiza una respuesta rápida al acelerador y un ralentí perfectamente estable en cualquier condición de ruta.\n\nCaracterísticas destacadas:\n-Tipo: Carburador de émbolo para motores de 4 tiempos y 150cc\n-Material: Cuerpo de aleación de zinc fundido de alta resistencia y durabilidad\n-Configuración: 1 boca y 1 cilindro\n-Mejora la eficiencia en el consumo de gasolina\n-Flujo de aire optimizado para un arranque suave y sin contratiempos\n-Número de parte: CAR-2110-0032\n\nCompatibilidad garantizada:\n-Bajaj BM150 (todos los años de producción)\n\nRecomendación de instalación: Se sugiere realizar la instalación y calibración con un mecánico especializado para asegurar el correcto flujo de combustible y el máximo rendimiento de tu motor.\n\n¡Mantén tu motocicleta al 100% y recorre cada kilómetro con total confianza y potencia garantizada!"
+  }
+}
