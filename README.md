@@ -1,4 +1,4 @@
-# Pipeline de Catalogación y Enriquecimiento Multicategoría para Mercado Libre (Urbanova / Toptek)
+# Pipeline de Catalogación y Enriquecimiento Multicategoría para E-commerce Toptek
 
 Sistema automatizado de catalogación, investigación técnica y generación de descripciones para e-commerce / Mercado Libre, diseñado para procesar de forma **modular, incremental y desacoplada** múltiples familias de motorefacciones (Carburadores, Kits de Sprockets, Barras de Suspensión, Salpicaderas, y cualquier categoría futura).
 
