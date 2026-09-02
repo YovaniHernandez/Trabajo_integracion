@@ -138,4 +138,3 @@ Para incorporar cualquier refacción nueva (ejemplo: *Discos de freno* o *Balata
      material: "Material"
      descripcion_comercial: "Descripción"
    ```
-3. ¡Listo! El sistema reconocerá automáticamente la nueva hoja y la procesará de forma incremental sin modificar el código principal.
